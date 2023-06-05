@@ -4,7 +4,7 @@ import myKey from "./khaltiKey"
 let config = {
     // replace this key with yours
     "publicKey": myKey.publicTestKey,
-    "ticketIdentity": "GT-254X4Z",
+    "productIdentity": "GT-254X4Z",
     "productName": "Umeet",
     "productUrl": "https://localhost:3000",
     "eventHandler": {
